@@ -32,7 +32,7 @@ public class SupplierDAO {
 		}
 	}
 	
-	/*public void updateSupplier(Supplier s)
+	public void updateSupplier(Supplier s)
 	{
 		try
 		{
@@ -52,7 +52,7 @@ public class SupplierDAO {
 			sess.getTransaction().rollback();
 			ex.printStackTrace();
 		}
-	}*/
+	}
 	
 	public List<Supplier> getSuppliers()
 	{
