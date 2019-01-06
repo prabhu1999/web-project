@@ -1,4 +1,4 @@
-package com.vinodh.BackEndProject;
+package com.prabhu.BackEndProject;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
